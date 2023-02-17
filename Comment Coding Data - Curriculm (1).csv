@@ -1,0 +1,18 @@
+Course,Grade,Course Name,Major projects,Do they have to do writing in the course?
+English,9,English 9,Performance about Antigone,TRUE
+English,10,English 10,Construct short stories,TRUE
+English,11,English 11,"LJP, Reading Their Eyes Were Watching God, Writing Essays",TRUE
+English,12,English 12,Ghost story writing,TRUE
+Science,9,Physics,Building Mouse trap,TRUE
+Science,10,Chemistry,"SRP, Stoichiometry, labs",TRUE
+Science,11,Biology,"SRP, Ecology, Cell Structure",TRUE
+History ,9,World History,Learning about the crusades,TRUE
+History ,10,US History,Learning about civil rights movements,TRUE
+Math,,geometry,Learning about triangles,FALSE
+Math,,algebra,Learn about logarithmic functions,FALSE
+Math,,precalculus,Learn about limits,FALSE
+Math,,AP Calculus AB,"Learning about derivatives, real world application of derivatives",FALSE
+Art,,Fine art photography,"Making a pin hole camera, Learning how to develop images. ",FALSE
+Art,,Digital studio art,Merging different pictures and creating new ones on photoshop,FALSE
+Art,,Ceremics,Making different ceremic projects,FALSE
+Art,,CDC,Designing a dream studio for partner,FALSE
